@@ -1,6 +1,4 @@
-# OSINT & Reverse Engineering Challenge – CyberWarFare Labs
-
-This repository contains the task I completed for the second round of the job application process at **CyberWarFare Labs**, focused on OSINT investigation and reverse engineering of obfuscated JavaScript code.
+# OSINT & Reverse Engineering Report
 
 ## 🔍 OSINT Objective
 
