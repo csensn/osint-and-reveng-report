@@ -20,7 +20,7 @@
 
 ## 📄 Report
 
-See full documentation in [`OSINT_RevEng_Report.pdf`](./OSINT_Reverse Engineering Report.pdf)
+See full documentation in [`OSINT + Reverse Engineering Report`](./OSINT_Reverse%20Engineering%20Report.pdf)
 
 ---
 
